@@ -13,7 +13,7 @@ This example uses: ```/tmp/jcrcmds.txt```
 Run the following commands in sequence to build the code in library JCRCMDS:    
 
 ```
-CRTLIB LIB(JCRCMDS) TEXT('Craig Rutledge Utilities')  
+CRTLIB LIB(JCRCMDS) TEXT('Craig Rutledge IBM i Utilities')  
 
 CRTSRCPF FILE(JCRCMDS/JCRCMDS) RCDLEN(112)   
 
