@@ -6,7 +6,9 @@ It may or may not stay in sync with Craigs work.
 See his site for his latest builds: http://www.jcrcmds.com
 
 # V7 IFS Install Instructions
-Download the V7 source JCRCMDS V7 to a directory on your IFS drive.
+Download the V7 source JCRCMDS V7 to a directory on your IFS drive.   
+
+https://github.com/richardschoen/JCRCMDS-Mobi/blob/main/jcrcmds.txt
 
 This example uses: ```/tmp/jcrcmds.txt```   
 
